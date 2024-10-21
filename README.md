@@ -1,5 +1,5 @@
-# solana-nft-alerts
-<h1>A discord bot designed to alert a server on marketplace activity inside the Solana marketplace Magic Eden.</h1>
+# Chaintoolz bot discord
+
 
 This bot works best running as close to the ME API as possible (as the API is in beta testing and is therefore not the most efficient) using AWS or something similiar. 
 
